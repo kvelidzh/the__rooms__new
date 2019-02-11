@@ -1,0 +1,16 @@
+//= ./util.js
+//= ./collapse.js
+/// = ./alert.js
+/// = ./button.js
+//= ./dropdown.js
+/// = ./tab.js
+/// = ./scrollspy.js
+/// = ./tooltip.js
+/// = ./popover.js
+/// = ./modal.js
+//= ./wow.min.js
+//= ./scroll.js
+//= ./carousel.js
+//= ./jquery.js
+//= ./slick.min.js
+//= ./scripts.js
